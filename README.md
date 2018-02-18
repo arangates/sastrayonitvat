@@ -1,5 +1,7 @@
 # Material + Flex-layout
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/arangates/sastrayonitvat.svg)](https://greenkeeper.io/)
+
 Include angular material + flex layout for material design components
 
 # Lodash
